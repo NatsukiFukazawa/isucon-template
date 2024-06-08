@@ -147,6 +147,8 @@
 /home/isucon/pprof/
 /home/isucon/tmp/
 /home/isucon/.*
+/home/isucon/webapp/
+!/home/isucon/webapp/go/
 
 !/result/
 !/.tmux.conf
